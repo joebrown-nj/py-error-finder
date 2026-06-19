@@ -1,0 +1,3 @@
+url,crawled_url,type,head_status,get_status,raw_reference,link_text,note
+https://skaleup.it.com/about,https://skaleup.it.com/website-development,HREF,404,200,https://skaleup.it.com/about,About,HEAD returned error while GET succeeded
+https://skaleup.it.com/terms-of-service,https://skaleup.it.com/website-development,HREF,404,200,https://skaleup.it.com/terms-of-service,Terms Of Service,HEAD returned error while GET succeeded
